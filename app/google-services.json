@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788773194971",
+    "project_id": "vudinhai-foodapp",
+    "storage_bucket": "vudinhai-foodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788773194971:android:f0952f2b8f6f37b138d0fe",
+        "android_client_info": {
+          "package_name": "com.example.vudinhai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788773194971-qip6d8ukpsb7klukfihtgpsencljmjes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-_-nupsQw24JZVTXlCjWgYMjqSZ8sDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788773194971-qip6d8ukpsb7klukfihtgpsencljmjes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
